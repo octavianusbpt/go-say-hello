@@ -1,3 +1,3 @@
-module github.com/octavianusbpt/go-say-hello
+module github.com/octavianusbpt/go-say-hello/v2
 
 go 1.19
